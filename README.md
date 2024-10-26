@@ -5,6 +5,7 @@ Repository Contents:
 	1.	Raw Data (Excel File):
 Contains the unprocessed sales data used for analysis. The data includes sales, revenue, product, and region information.
 	•	File: Plant_DTS.xls
+ 
 	2.	Processed Power BI File:
 This Power BI file contains the entire sales analysis with visualizations, DAX measures, and an interactive dashboard.
 	•	File: PerformanceReport.pbix
